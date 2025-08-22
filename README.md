@@ -1,6 +1,6 @@
-Project Name = HRMS System 
+#Project Name = HRMS System 
 
-Problem statement -
+##Problem statement -
 
 Employee, Department
 
@@ -26,10 +26,10 @@ Move employee from one dept to another
 View Employees of a dept
 View employees reporting to a Manager
 
-Design this solution using java 8 , spring boot & microservice architecture , H2 (In memory DB for easy testing purpose)
+##Design this solution using java 8 , spring boot & microservice architecture , H2 (In memory DB for easy testing purpose)
 
 
-**Execution Guide **
+##**Execution Guide **
 Execution order for microservices
 
 1.service-registry (Eureka) → runs on :8761
