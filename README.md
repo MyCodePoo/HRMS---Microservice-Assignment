@@ -44,6 +44,3 @@ Confirm Eureka Dashboard: http://localhost:8761
 All requests are made via Gateway at http://localhost:8080/...
 
 Collection of postman API also attached for reference 
-
-
-De\
