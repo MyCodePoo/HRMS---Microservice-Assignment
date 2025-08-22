@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "2f9ddb7d-c00f-4d69-b76b-7486133f9a09",
+		"name": "HRMS - Microservice / Wissen Technology Assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3666205"
+	},
+	"item": [
+		{
+			"name": "Employee service",
+			"item": [
+				{
+					"name": "View Employees of a dept",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "View employees reporting to a Manager",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Move employee from one dept to another",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Add new Employee",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Department service",
+			"item": [
+				{
+					"name": "Add new Dept into records",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Getting Dept information by dept id",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "View all dept information",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
